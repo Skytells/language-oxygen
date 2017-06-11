@@ -1,7 +1,7 @@
 {
   "name": "language-oxygen",
   "main": "./lib/language-oxygen",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Syntax highlighter for the Oxygen templating engine used in Skytells Framework",
   "repository": "https://github.com/Skytells/language-oxygen",
   "license": "MIT",
